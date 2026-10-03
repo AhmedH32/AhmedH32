@@ -16,10 +16,10 @@ Focusing on **ML Systems**, **High-Throughput LLM Serving**, and **Algorithmic O
 
 ### Featured Repositories
 
-- [**ai-gym-coach**](https://github.com/AhmedH32/ai-gym-coach) — 2-stage compound AI inference engine (Qwen 2.5 7B LoRA router + clinical RAG) deployed on constrained Tesla T4 hardware via vLLM.
-- [**earthquake-tsunami-prediction**](https://github.com/AhmedH32/earthquake-tsunami-prediction) — Cost-asymmetric ML pipeline resolving spherical anti-meridian distortions via 3D Cartesian projections ($F_2 = 0.9223$, 96.6% recall).
+- [**ai-gym-coach**](https://github.com/AhmedH32/ai-gym-coach) — End-to-end LLM serving pipeline coupling a fine-tuned LoRA classification head with vector retrieval (ChromaDB), deployed via vLLM on constrained Tesla T4 hardware.
+- [**earthquake-tsunami-prediction**](https://github.com/AhmedH32/earthquake-tsunami-prediction) — Cost-asymmetric ML pipeline resolving spherical anti-meridian distortions via 3D Cartesian projections ($F_2 = 0.922$, 96.6% recall).
+- [**elderly-assist-system**](https://github.com/AhmedH32/elderly-assist-system) — Multi-threaded edge perception engine decoupling real-time YOLO pose tracking from kinematic fall heuristics and offline ONNX speech synthesis. Zero-disk frame persistence.
 - [**ml-from-first-principles**](https://github.com/AhmedH32/ml-from-first-principles) — Implementing ML/DL architectures from scratch in pure NumPy, focusing on SIMD vectorization, cache locality, and matrix calculus.
-- [**domain-qa-llm**](https://github.com/AhmedH32/domain-qa-llm) — Multi-adapter LoRA routing network dynamically dispatching specialized task adapters.
 
 ---
 
