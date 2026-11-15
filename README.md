@@ -1,6 +1,6 @@
 # Ahmed Hassan
 
-**Computer Engineering @ AASTMT (Rank #1, GPA 3.94) | 3× ECPC National Finalist | Codeforces Expert (1618)**  
+**Computer Engineering @ AASTMT (Rank #1, GPA 3.93) | 3× ECPC National Finalist | Codeforces Expert (1618)**  
 Focusing on **ML Systems**, **High-Throughput LLM Serving**, **Compound AI Architectures**, and **Algorithmic Optimization**.
 
 ---
